@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Akash Singh 
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently pursuing master's in Computer Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently pursuing masters in Computer Science
+- 📫 You can reach me via email (akashsingh0710@gmail.com)
 
 <!---
 akashsingh0710/akashsingh0710 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
